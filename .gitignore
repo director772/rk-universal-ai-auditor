@@ -1,9 +1,6 @@
+.env
 .venv/
 __pycache__/
-*.pyc
 *.db
 *.sqlite*
-.env
-.env.*
-!.env.example
-.DS_Store
+*.log
